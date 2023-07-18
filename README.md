@@ -1,0 +1,2 @@
+# goless
+Golang build minimizer
